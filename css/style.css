@@ -1,2 +1,41 @@
-/*изминения 1 изминения 2*/
-/*еще коментарий*/
+
+body{
+	background-image: url(../img/pt.png);
+}
+section#main{
+
+    height:100vh;
+	
+	padding-top: 10%;
+	
+}
+
+.job{
+	color: #CC3333;
+
+}
+
+
+section#lesson_2{
+	height:50vh;
+	
+}
+
+.fon{
+
+	height:100px;
+	border:2px solid black;
+	background: #000;
+
+
+}
+
+.inside_the_level{
+	height: 50px;
+	background: green;
+	border:2px solid black;
+}
+
+.level_1{
+	padding-top: 4%;
+}
